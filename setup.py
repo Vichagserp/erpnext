@@ -5,7 +5,7 @@ version = "6.17.0"
 requirements = parse_requirements("requirements.txt", session="")
 
 setup(
-	name='erpnext',
+	name='ERPPlus',
 	version=version,
 	description='Open Source ERP',
 	author='Frappe Technologies',
